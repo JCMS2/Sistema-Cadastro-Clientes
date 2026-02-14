@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|c:\\users\\moura\\onedrive\\desktop\\c#\\projeto\\sistema_cadastro_clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|c:\\users\\moura\\onedrive\\desktop\\c#\\projeto\\sistema_cadastro_clientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|c:\\users\\moura\\onedrive\\desktop\\c#\\projeto\\sistema_cadastro_clientes\\migrations\\clientecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|solutionrelative:migrations\\clientecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|c:\\users\\moura\\onedrive\\desktop\\c#\\projeto\\sistema_cadastro_clientes\\migrations\\20260213215630_alteracpfetelefoneparastring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|solutionrelative:migrations\\20260213215630_alteracpfetelefoneparastring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|c:\\users\\moura\\onedrive\\desktop\\c#\\projeto\\sistema_cadastro_clientes\\context\\clientecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|solutionrelative:context\\clientecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|c:\\users\\moura\\onedrive\\desktop\\c#\\projeto\\sistema_cadastro_clientes\\context\\clientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|solutionrelative:context\\clientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|c:\\users\\moura\\onedrive\\desktop\\c#\\projeto\\sistema_cadastro_clientes\\classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|solutionrelative:classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|c:\\users\\moura\\onedrive\\desktop\\c#\\projeto\\sistema_cadastro_clientes\\controllers\\clientecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DA10B5-0464-4F8C-8FE3-A1BC2AE4C030}|Sistema_Cadastro_Clientes.csproj|solutionrelative:controllers\\clientecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T22:46:17.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-14T22:46:11.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Migrations\\ClienteContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ClienteContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Migrations\\ClienteContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ClienteContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T22:46:10.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260213215630_AlteraCpfETelefoneParaString.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Migrations\\20260213215630_AlteraCpfETelefoneParaString.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260213215630_AlteraCpfETelefoneParaString.cs",
+              "ToolTip": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Migrations\\20260213215630_AlteraCpfETelefoneParaString.cs",
+              "RelativeToolTip": "Migrations\\20260213215630_AlteraCpfETelefoneParaString.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T22:46:09.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Context\\ClienteContextFactory.cs",
+              "RelativeDocumentMoniker": "Context\\ClienteContextFactory.cs",
+              "ToolTip": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Context\\ClienteContextFactory.cs",
+              "RelativeToolTip": "Context\\ClienteContextFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T22:46:07.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Context\\ClienteContext.cs",
+              "RelativeDocumentMoniker": "Context\\ClienteContext.cs",
+              "ToolTip": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Context\\ClienteContext.cs",
+              "RelativeToolTip": "Context\\ClienteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T22:46:06.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Classes\\Cliente.cs",
+              "RelativeDocumentMoniker": "Classes\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Classes\\Cliente.cs",
+              "RelativeToolTip": "Classes\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T21:52:20.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Controllers\\ClienteControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteControllers.cs",
+              "ToolTip": "C:\\Users\\Moura\\OneDrive\\Desktop\\C#\\Projeto\\Sistema_Cadastro_Clientes\\Controllers\\ClienteControllers.cs",
+              "RelativeToolTip": "Controllers\\ClienteControllers.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:05:34.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

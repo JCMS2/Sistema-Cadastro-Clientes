@@ -1,0 +1,6 @@
+@Sistema_Cadastro_Clientes_HostAddress = http://localhost:5118
+
+GET {{Sistema_Cadastro_Clientes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
